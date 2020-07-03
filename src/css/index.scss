@@ -1,0 +1,7 @@
+@import './global/main.scss';
+@import './global/glob-color.scss';
+div{
+    width: 100px;
+    height: 100px;
+    background-color: $red;
+}
